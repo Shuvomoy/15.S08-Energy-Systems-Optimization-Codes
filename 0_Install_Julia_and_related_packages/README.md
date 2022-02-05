@@ -1,6 +1,6 @@
 # Install Julia and related packages
 
-Please follow the instructions below to have a working `Julia` environment for this course this course. 
+Please follow the instructions below to have a working `Julia` environment for this course.
 
 ### Install Julia
 
